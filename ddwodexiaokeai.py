@@ -25,8 +25,8 @@ print "TELEGRAM : https://www.t.me/aihejiudejishu"
 print "github   : https://github.com/baiyijishu"
 print "Facebook : https://www.facebook.com/baiyijishu168"
 print
-ip = raw_input("IP 目标 : ")
-port = input("端口       : ")
+ip = raw_input("IP IP : ")
+port = input("PORT       : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
