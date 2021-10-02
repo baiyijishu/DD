@@ -18,15 +18,15 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet DD WO DE XIAO KE AI")
 print
 print "Author   : BAIYIJISHU"
 print "TELEGRAM : https://www.t.me/aihejiudejishu"
 print "github   : https://github.com/baiyijishu"
 print "Facebook : https://www.facebook.com/baiyijishu168"
 print
-ip = raw_input("IP Target : ")
-port = input("Port       : ")
+ip = raw_input("IP 目标 : ")
+port = input("端口       : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
